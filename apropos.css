@@ -104,7 +104,7 @@ li a{
     height: 200px;
     margin: 0 auto;
     padding: 1%;
-    background-image: url("/home/anta/Documents/projet  html/Image(6).png");
+    background-image: url("image/Image(6).png");
     background-size: 200%;
 }
 .bloc9{
@@ -112,6 +112,6 @@ li a{
     height: 150px;
     margin: 0 auto;
     padding: 1%;
-    background-image: url("/home/anta/Documents/projet  html/Footer(2).png");
+    background-image: url("image/Footer(2).png");
     background-size: 100%;
 }

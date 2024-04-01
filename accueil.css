@@ -71,7 +71,7 @@ li a{
     height: 400px;
     margin: 0 auto;
     padding: 1%;
-    background-image:url("/home/anta/Documents/projet  html/Background.png");
+    background-image:url("image/Background.png");
     background-size: 100%;
 }
 .bloc5 img{
@@ -101,7 +101,7 @@ li a{
     height: 200px;
     margin: 0 auto;
     padding: 1%;
-    background-image: url("/home/anta/Documents/projet  html/Background(1).png");
+    background-image: url("image/Background(1).png");
     background-size: 200%;
 }
 .bloc9{
@@ -109,7 +109,7 @@ li a{
     height: 150px;
     margin: 0 auto;
     padding: 1%;
-    background-image: url("/home/anta/Documents/projet  html/Footer.png");
+    background-image: url("image/Footer.png");
     background-size: 100%;
 
 }
